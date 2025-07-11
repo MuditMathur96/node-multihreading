@@ -1,0 +1,21 @@
+{
+  "name": "multihreading",
+  "version": "1.0.0",
+  "description": "Simple projects to practice mutlthreading with nodejs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuditMathur96/node-multihreading.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuditMathur96/node-multihreading/issues"
+  },
+  "homepage": "https://github.com/MuditMathur96/node-multihreading#readme"
+}
